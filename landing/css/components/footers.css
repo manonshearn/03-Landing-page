@@ -1,0 +1,28 @@
+.footer {
+  background-color: black;
+  background-size: cover;
+  background-position: center;
+  padding: 40px 0;
+  text-align: center;
+}
+
+.footer-icons li {
+  display: inline;
+}
+
+.footer h3 {
+  color: white;
+  text-align: center;
+  font-size: 10px;
+}
+
+.footer-icons a {
+  font-size: 30px;
+  list-style: none;
+  color: #adabaa;
+}
+
+.footer-icons a:hover {
+  color: #853c21;
+  list-style: none;
+}
